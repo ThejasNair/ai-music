@@ -1,0 +1,12 @@
+h1 {
+    box-shadow: 5px 5px 5px green;
+    padding: 20;
+    margin-bottom: 10;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    padding:20;
+    margin: 20;
+}
